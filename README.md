@@ -1,0 +1,3 @@
+# README
+
+Kickball Scoreboard Kata
