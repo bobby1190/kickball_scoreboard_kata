@@ -14,13 +14,13 @@ If you would like to familiarize yourself with some of the basics of kickball pl
 In kickball there are 4 bases. In the actual game these form a square or a diamond.
 
 ```
-third <-------- 2nd
+third <-------- second
  ||              /\
  ||              ||
  ||              ||
  ||              ||
  \/              ||
-home ---------> 1st
+home ---------> first
 ```
 
 Players advance from one base to the next. There is a base at each corner of the square.<br />
